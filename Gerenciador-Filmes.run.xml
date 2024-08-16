@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Gerenciador-Filmes" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="true" EMULATE_TERMINAL="false" WORKING_DIR="file://$PROJECT_DIR$/4 Semestre/Estrutura de Dados II/Projeto 1" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Gerenciador-Filmes-Arvore" TARGET_NAME="Gerenciador-Filmes" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Gerenciador-Filmes-Arvore" RUN_TARGET_NAME="Gerenciador-Filmes">
+    <method v="2">
+      <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+    </method>
+  </configuration>
+</component>
